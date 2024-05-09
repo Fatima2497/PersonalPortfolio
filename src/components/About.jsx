@@ -24,9 +24,9 @@ const About = () => {
           <p>
             As an intermediate website developer, I&apos;ve not only acquired a
             strong foundation in web development but also a passion for pushing
-            the boundaries of what's possible on the web. I thrive on the
+            the boundaries of what&apos;s possible on the web. I thrive on the
             dynamic nature of this field and the opportunity it offers to shape
-            the digital world. In this portfolio, you'll discover the projects
+            the digital world. In this portfolio, you&apos;ll discover the projects
             that reflect my dedication to this dynamic and ever-evolving
             profession.
           </p>

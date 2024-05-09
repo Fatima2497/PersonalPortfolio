@@ -19,7 +19,7 @@ const Banner = () => {
         <motion.p 
         initial={{y:10, opacity: 0}} animate={{y:0, opacity:1}} transition={{duration: 0.5, delay: 0.8}}
         className='text-base md:max-w-[650px] text-textDark font-medium'>
-            Hello, I&apos;m Arfa Fatima, a web developer. I have a bachelor&apos;s degree in Computer Science and I specialize in creating well-organized, responsive websites and single-page web applications using HTML, CSS, and JavaScript. With my expertise, I can help bring your ideas to life and create a seamless user experience. Let's work together to take your online presence to the next level!  
+            Hello, I&apos;m Arfa Fatima, a web developer. I have a bachelor&apos;s degree in Computer Science and I specialize in creating well-organized, responsive websites and single-page web applications using HTML, CSS, and JavaScript. With my expertise, I can help bring your ideas to life and create a seamless user experience. Let&apos;s work together to take your online presence to the next level!  
             <a href="#about">
                 <span className='text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group'>
                     Learn More

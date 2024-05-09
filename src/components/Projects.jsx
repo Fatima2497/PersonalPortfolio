@@ -109,7 +109,7 @@ const Projects = () => {
               Featured Project
             </p>
             <h3 className="text-2xl font-bold">TrackApp Website</h3>
-                <p className='bg-[#112240] text-sm md:text-base p-2 md:p-6 xl:-mr-16  rounded-md'>With Next.js, I&apos;ve ensured seamless navigation and optimized performance, providing users with a smooth experience from start to finish. Leveraging the power of the MERN stack, I've implemented robust authentication features and performed CRUD operations seamlessly.<span className='text-textGreen'> By creating RESTful APIs, I&apos;ve enabled efficient data management, empowering users to track their progress effortlessly.</span> </p>
+                <p className='bg-[#112240] text-sm md:text-base p-2 md:p-6 xl:-mr-16  rounded-md'>With Next.js, I&apos;ve ensured seamless navigation and optimized performance, providing users with a smooth experience from start to finish. Leveraging the power of the MERN stack, I&apos;ve implemented robust authentication features and performed CRUD operations seamlessly.<span className='text-textGreen'> By creating RESTful APIs, I&apos;ve enabled efficient data management, empowering users to track their progress effortlessly.</span> </p>
                 <ul className='text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark'>
                     <li>NextJS</li>
                     <li>React JS</li>
